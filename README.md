@@ -33,4 +33,6 @@
 ### Результаты:  
 [Пранализированные графики с объяснениями](Bank_Analytics.ipynb)
 
+[ML модель для предсказания ушедших клиентов](Bank Analytics and ML model for exited clients/ML-3_Bank_ML-model.ipynb)
+
 :arrow_up:[к оглавлению](.README.md#Оглавление)
